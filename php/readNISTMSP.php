@@ -9,7 +9,7 @@ $libraries = array('nist_msms','nist_msms2');
 
 
 
-$link = mysqli_connect( 'localhost', 'root', '####', '#####' );
+$link = mysqli_connect( 'localhost', '####', '####', '#####' );
 $sql = "IF OBJECT_ID('nistlib', 'U') IS NOT NULL DROP TABLE nistlib"; 
 mysqli_query($link, $sql);
 
