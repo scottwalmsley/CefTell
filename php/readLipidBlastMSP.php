@@ -5,8 +5,8 @@
 $libdir = $argv[1];   //directory path to lipid-blast libs
 $libraries = array("LipidBlast-pos");
 
-#$link = mysqli_connect( 'RDLabData', 'root', 'J0ecamel', 'darpa_18' );
-$link = mysqli_connect( 'localhost', 'root', 'camera9(', 'baldb' );
+
+$link = mysqli_connect( 'localhost', '####', '####', 'baldb' );
 
 
 $i=0;
