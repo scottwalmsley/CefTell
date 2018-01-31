@@ -1,2 +1,2 @@
 ### cefTell
-CefTell is a r script for reading chemical exchange format files.  These files are commonly produced when using Agilent feature finding software for mass spectrometry files.
+CefTell is a series of r scripts for reading chemical exchange format files and producing ion statistics.  These files are commonly produced when using Agilent feature finding software for mass spectrometry files.
